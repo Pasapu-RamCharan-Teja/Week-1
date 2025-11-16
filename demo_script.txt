@@ -1,0 +1,29 @@
+✨ Demo Script – Garbage Classification Project (CNN)
+1. Introduction
+
+“Hello everyone, my name is P. RamCharan Teja. Today, I will be presenting my Garbage Classification Project, developed using a Convolutional Neural Network (CNN). This project aims to automatically classify waste into different categories to support efficient waste management.”
+
+2. Project Structure Overview
+
+“In this section, I will show you the project folder structure along with the README file, which explains how the model was built, how to run the application, and the dataset used.”
+
+3. Running the Application
+
+“To launch the application, I use the following command in the terminal:
+streamlit run app.py
+
+This will open the Streamlit web interface, where users can interact with the model.”
+
+4. Uploading an Image
+
+“Once the interface is open, I can upload any sample garbage image from the dataset.
+After uploading, the model processes the image and predicts the corresponding waste category based on its training.”
+
+5. Model Performance
+
+“Here, I will display the training accuracy and loss graphs from the Jupyter Notebook. These plots show how the model improved over time and help evaluate its overall performance.”
+
+6. Conclusion
+
+“This concludes my demonstration of the Garbage Classification Project.
+Thank you for watching.”
